@@ -350,8 +350,7 @@ angular.module( 'engageApp', [
             {
               title: 'Updated Loyalty Data into Engage360',
               timestamp: 'September 05, 03:42:55',
-              icon: 'fa-credit-card
-              ',
+              icon: 'fa-credit-card',
               iconcolor: 'phone'
             }/*,
             {
