@@ -226,12 +226,12 @@ angular.module( 'engageApp', [
       },
       {
         graphCId: "my-call-graph",
-        icon: "fa-phone",
+        icon: "fa-credit-card",
         iconChange: "fa-caret-down",
         change: "0.8% ",
         val: "9.3K",
         graphId: "call_graph",
-        bottomText: "Call Center",
+        bottomText: "Loyalty",
         bottomClass: "graph_call",
         active: false,
         arrowClass: "arrowCall"
@@ -319,9 +319,9 @@ angular.module( 'engageApp', [
             iconcolor: 'hand'
           }, */ 
           {
-            title: 'Completed download of CallCenter Data',
+            title: 'Completed download of Loyalty Data',
             timestamp: 'September 05,  03:42:39',
-            icon: 'fa-phone',
+            icon: 'fa-credit-card',
             iconcolor: 'phone'
           },
           /*{
@@ -348,9 +348,10 @@ angular.module( 'engageApp', [
               iconcolor: 'envelope'
             },
             {
-              title: 'Updated CallCenter Data into Engage360',
+              title: 'Updated Loyalty Data into Engage360',
               timestamp: 'September 05, 03:42:55',
-              icon: 'fa-phone',
+              icon: 'fa-credit-card
+              ',
               iconcolor: 'phone'
             }/*,
             {
